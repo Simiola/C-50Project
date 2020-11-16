@@ -1,0 +1,23 @@
+h1{
+    color: royalblue;
+}
+
+.header{
+    display: flex;
+    background-color: yellow;
+    justify-content: flex-start;
+    border: solid;
+    
+}
+
+.grid{
+    display: flex;
+    justify-content: space-evenly ;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+
+body{
+    background-image: url("images/texture.jpg");
+}
